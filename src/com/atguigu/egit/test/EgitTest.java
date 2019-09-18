@@ -6,5 +6,6 @@ public class EgitTest {
 		System.out.println("bbb");
 		System.out.println("c'c");
 		System.out.println("eee");
+		System.out.println("eec'c");
 	}
 }
